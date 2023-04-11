@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: 1eb60d80f97a8c6409aaaa0c6cf45184
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Warrior_Walk_0
+  - first:
+      213: 21300002
+    second: Warrior_Walk_1
+  - first:
+      213: 21300004
+    second: Warrior_Walk_2
+  - first:
+      213: 21300006
+    second: Warrior_Walk_3
+  - first:
+      213: 21300008
+    second: Warrior_Walk_4
+  - first:
+      213: 21300010
+    second: Warrior_Walk_5
+  - first:
+      213: 21300012
+    second: Warrior_Walk_6
+  - first:
+      213: 21300014
+    second: Warrior_Walk_7
+  - first:
+      213: 21300016
+    second: Warrior_Walk_8
+  - first:
+      213: 21300018
+    second: Warrior_Walk_9
+  - first:
+      213: 21300020
+    second: Warrior_Walk_10
+  - first:
+      213: 21300022
+    second: Warrior_Walk_11
+  - first:
+      213: 21300024
+    second: Warrior_Walk_12
+  - first:
+      213: 21300026
+    second: Warrior_Walk_13
+  - first:
+      213: 21300028
+    second: Warrior_Walk_14
+  - first:
+      213: 21300030
+    second: Warrior_Walk_15
+  - first:
+      213: 21300032
+    second: Warrior_Walk_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1044
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99afa469278bf2c4e91b307948d36bc1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1049
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a977c6af85d86604bacc12bfe8069502
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1062
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25de8b0d33154fc46966dc76a2e2ac93
+      internalID: 1146931101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1050
+        width: 126
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb699189e2ce1014ebf0ac5b3cba2483
+      internalID: -2105528201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 792
+        width: 126
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ece5a8871800c54e83a36028e19f909
+      internalID: -1695215437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 792
+        width: 123
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738d81a58466aa24585ccad586672cf2
+      internalID: -881834798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 792
+        width: 132
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d762e53b98ee346baa8bcc9c1adbf5
+      internalID: 1698459906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 786
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ef76a671dc3fd459589eba386b8c5a
+      internalID: 520142044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_79
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 540
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c11a1d76d2d94bbc7e891d0ec5172
+      internalID: -719322625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 564
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5c8c8da71920428ab24831e6b2681
+      internalID: 1843885398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_83
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 566
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d429a2f910afe24cadaeddbdffe189a
+      internalID: -1991566001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_86
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 534
+        width: 121
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a364a45326f264b81f29be8a80ccb8
+      internalID: 1939367254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_126
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 282
+        width: 139
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d635920a4eb704540bf345248067e98c
+      internalID: 1677124461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_128
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 276
+        width: 138
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eabb09946c57645acd6f7134fffabc
+      internalID: 596132841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_135
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 276
+        width: 126
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a794d2bf5da03a48b34ff0c4cba9861
+      internalID: 589462980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_137
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 282
+        width: 138
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047b7c11231568b4597dce79ddbd3955
+      internalID: -2087080818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Walk_168
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6ac107e14390842b2cf262ba350b77
+      internalID: 626627475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d72d86ad1da8a3f4f9fbda25f93ab162
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Warrior_Walk_0: 21300000
+      Warrior_Walk_1: 21300002
+      Warrior_Walk_10: 21300020
+      Warrior_Walk_100: 721699077
+      Warrior_Walk_101: -680538915
+      Warrior_Walk_102: 1366981603
+      Warrior_Walk_103: 1691745463
+      Warrior_Walk_104: -882468661
+      Warrior_Walk_105: 981437694
+      Warrior_Walk_106: -412170245
+      Warrior_Walk_107: 160182272
+      Warrior_Walk_108: -391364063
+      Warrior_Walk_109: 1901627863
+      Warrior_Walk_11: 21300022
+      Warrior_Walk_110: 234548843
+      Warrior_Walk_111: -185479942
+      Warrior_Walk_112: -344993772
+      Warrior_Walk_113: 1173893820
+      Warrior_Walk_114: 469906328
+      Warrior_Walk_115: -306060933
+      Warrior_Walk_116: 1784073754
+      Warrior_Walk_117: -1953937121
+      Warrior_Walk_118: -1438834665
+      Warrior_Walk_119: 966948038
+      Warrior_Walk_12: 21300024
+      Warrior_Walk_120: 17864653
+      Warrior_Walk_121: 1479656644
+      Warrior_Walk_122: -798459690
+      Warrior_Walk_123: -1309500176
+      Warrior_Walk_124: -356306622
+      Warrior_Walk_125: -613395133
+      Warrior_Walk_126: 1677124461
+      Warrior_Walk_127: -1138981600
+      Warrior_Walk_128: 596132841
+      Warrior_Walk_129: -619073165
+      Warrior_Walk_13: 21300026
+      Warrior_Walk_130: -362675444
+      Warrior_Walk_131: -1776618985
+      Warrior_Walk_132: 1390328564
+      Warrior_Walk_133: 1068465727
+      Warrior_Walk_134: 1473878243
+      Warrior_Walk_135: 589462980
+      Warrior_Walk_136: 1276450313
+      Warrior_Walk_137: -2087080818
+      Warrior_Walk_138: -674318207
+      Warrior_Walk_139: 1509368512
+      Warrior_Walk_14: 21300028
+      Warrior_Walk_140: 456049895
+      Warrior_Walk_141: -577378451
+      Warrior_Walk_142: -1399125821
+      Warrior_Walk_143: -1929009947
+      Warrior_Walk_144: 1559493924
+      Warrior_Walk_145: -25145423
+      Warrior_Walk_146: 1882504905
+      Warrior_Walk_147: 1264838416
+      Warrior_Walk_148: 374775301
+      Warrior_Walk_149: 1863108305
+      Warrior_Walk_15: 21300030
+      Warrior_Walk_150: 1460046651
+      Warrior_Walk_151: -467446618
+      Warrior_Walk_152: -1078138285
+      Warrior_Walk_153: 857629132
+      Warrior_Walk_154: -1380842260
+      Warrior_Walk_155: 1425240788
+      Warrior_Walk_156: -1170260783
+      Warrior_Walk_157: -1747080424
+      Warrior_Walk_158: -1134754214
+      Warrior_Walk_159: -1295726613
+      Warrior_Walk_16: 21300032
+      Warrior_Walk_160: 1717943134
+      Warrior_Walk_161: -1776338424
+      Warrior_Walk_162: -750575683
+      Warrior_Walk_163: -679428518
+      Warrior_Walk_164: -1325460286
+      Warrior_Walk_165: 792147311
+      Warrior_Walk_166: 677610479
+      Warrior_Walk_167: 477604316
+      Warrior_Walk_168: 626627475
+      Warrior_Walk_17: -1260969648
+      Warrior_Walk_18: 1038463407
+      Warrior_Walk_19: 138050421
+      Warrior_Walk_2: 21300004
+      Warrior_Walk_20: 1146931101
+      Warrior_Walk_21: -867305326
+      Warrior_Walk_22: 1205074319
+      Warrior_Walk_23: -2105528201
+      Warrior_Walk_24: -608730529
+      Warrior_Walk_25: 482504203
+      Warrior_Walk_26: 1529676349
+      Warrior_Walk_27: 736887845
+      Warrior_Walk_28: -1771429881
+      Warrior_Walk_29: -1588291091
+      Warrior_Walk_3: 21300006
+      Warrior_Walk_30: -894832523
+      Warrior_Walk_31: -953773752
+      Warrior_Walk_32: -1748823058
+      Warrior_Walk_33: -1339005965
+      Warrior_Walk_34: -1008296271
+      Warrior_Walk_35: 653026671
+      Warrior_Walk_36: 2000864461
+      Warrior_Walk_37: -103084084
+      Warrior_Walk_38: -1429208349
+      Warrior_Walk_39: 1706253347
+      Warrior_Walk_4: 21300008
+      Warrior_Walk_40: -1695215437
+      Warrior_Walk_41: -881834798
+      Warrior_Walk_42: -769895033
+      Warrior_Walk_43: 1698459906
+      Warrior_Walk_44: -635522697
+      Warrior_Walk_45: -978227543
+      Warrior_Walk_46: 1006760638
+      Warrior_Walk_47: 520142044
+      Warrior_Walk_48: 1197376902
+      Warrior_Walk_49: 197640755
+      Warrior_Walk_5: 21300010
+      Warrior_Walk_50: 725739835
+      Warrior_Walk_51: -88286033
+      Warrior_Walk_52: 1696590747
+      Warrior_Walk_53: -1811289822
+      Warrior_Walk_54: -1081751248
+      Warrior_Walk_55: 2093220268
+      Warrior_Walk_56: 495419517
+      Warrior_Walk_57: -1684103955
+      Warrior_Walk_58: -616356506
+      Warrior_Walk_59: -436933671
+      Warrior_Walk_6: 21300012
+      Warrior_Walk_60: -1390543848
+      Warrior_Walk_61: 247546407
+      Warrior_Walk_62: 1357445428
+      Warrior_Walk_63: -1723378853
+      Warrior_Walk_64: -1324550151
+      Warrior_Walk_65: 2025356312
+      Warrior_Walk_66: 66300882
+      Warrior_Walk_67: -1644223462
+      Warrior_Walk_68: -1088056494
+      Warrior_Walk_69: 1655573956
+      Warrior_Walk_7: 21300014
+      Warrior_Walk_70: 1755526737
+      Warrior_Walk_71: 142496783
+      Warrior_Walk_72: 1436349379
+      Warrior_Walk_73: -1264487730
+      Warrior_Walk_74: -1156690007
+      Warrior_Walk_75: 138987371
+      Warrior_Walk_76: -1530240611
+      Warrior_Walk_77: 429113615
+      Warrior_Walk_78: 959790795
+      Warrior_Walk_79: -719322625
+      Warrior_Walk_8: 21300016
+      Warrior_Walk_80: -585392102
+      Warrior_Walk_81: 1843885398
+      Warrior_Walk_82: -932384253
+      Warrior_Walk_83: -1991566001
+      Warrior_Walk_84: -2043401626
+      Warrior_Walk_85: -828400123
+      Warrior_Walk_86: 1939367254
+      Warrior_Walk_87: -119638277
+      Warrior_Walk_88: -2143740305
+      Warrior_Walk_89: -1327024685
+      Warrior_Walk_9: 21300018
+      Warrior_Walk_90: -1278163220
+      Warrior_Walk_91: -1869890413
+      Warrior_Walk_92: 114852336
+      Warrior_Walk_93: 191291910
+      Warrior_Walk_94: 518579290
+      Warrior_Walk_95: -1518968893
+      Warrior_Walk_96: -1081589771
+      Warrior_Walk_97: -938272642
+      Warrior_Walk_98: -640590925
+      Warrior_Walk_99: -1989112649
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

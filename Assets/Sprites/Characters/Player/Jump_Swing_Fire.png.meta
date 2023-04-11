@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 31e144eb49a099e4696a418b7b2e7141
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Jump_Swing_Fire_0
+  - first:
+      213: 21300002
+    second: Jump_Swing_Fire_1
+  - first:
+      213: 21300004
+    second: Jump_Swing_Fire_2
+  - first:
+      213: 21300006
+    second: Jump_Swing_Fire_3
+  - first:
+      213: 21300008
+    second: Jump_Swing_Fire_4
+  - first:
+      213: 21300010
+    second: Jump_Swing_Fire_5
+  - first:
+      213: 21300012
+    second: Jump_Swing_Fire_6
+  - first:
+      213: 21300014
+    second: Jump_Swing_Fire_7
+  - first:
+      213: 21300016
+    second: Jump_Swing_Fire_8
+  - first:
+      213: 21300018
+    second: Jump_Swing_Fire_9
+  - first:
+      213: 21300020
+    second: Jump_Swing_Fire_10
+  - first:
+      213: 21300022
+    second: Jump_Swing_Fire_11
+  - first:
+      213: 21300024
+    second: Jump_Swing_Fire_12
+  - first:
+      213: 21300026
+    second: Jump_Swing_Fire_13
+  - first:
+      213: 21300028
+    second: Jump_Swing_Fire_14
+  - first:
+      213: 21300030
+    second: Jump_Swing_Fire_15
+  - first:
+      213: 21300032
+    second: Jump_Swing_Fire_16
+  - first:
+      213: 21300034
+    second: Jump_Swing_Fire_17
+  - first:
+      213: 21300036
+    second: Jump_Swing_Fire_18
+  - first:
+      213: 21300038
+    second: Jump_Swing_Fire_19
+  - first:
+      213: 21300040
+    second: Jump_Swing_Fire_20
+  - first:
+      213: 21300042
+    second: Jump_Swing_Fire_21
+  - first:
+      213: 21300044
+    second: Jump_Swing_Fire_22
+  - first:
+      213: 21300046
+    second: Jump_Swing_Fire_23
+  - first:
+      213: 21300048
+    second: Jump_Swing_Fire_24
+  - first:
+      213: 21300050
+    second: Jump_Swing_Fire_25
+  - first:
+      213: 21300052
+    second: Jump_Swing_Fire_26
+  - first:
+      213: 21300054
+    second: Jump_Swing_Fire_27
+  - first:
+      213: 21300056
+    second: Jump_Swing_Fire_28
+  - first:
+      213: 21300058
+    second: Jump_Swing_Fire_29
+  - first:
+      213: 21300060
+    second: Jump_Swing_Fire_30
+  - first:
+      213: 21300062
+    second: Jump_Swing_Fire_31
+  - first:
+      213: 21300064
+    second: Jump_Swing_Fire_32
+  - first:
+      213: 21300066
+    second: Jump_Swing_Fire_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1044
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b6ecc0e007c5548a2ee57d5ef1f502
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1044
+        width: 134
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc871dafa0ba69a4f8590fdc7cf22852
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1038
+        width: 182
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9070279b1f20614c9ee8d3ccb938d26
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 565
+        width: 188
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57de7b98c5e045645a510f981a8e8773
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 579
+        width: 173
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a97ba9cc925f4989e3cb656d6d7e3
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1031
+        width: 115
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d682ec12102c174ca5d7aaabad75866
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1038
+        width: 166
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0ddfb107e9154aa468738ea649d35
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1062
+        width: 145
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74641241248f3cf4ebd2397f11f23b96
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1008
+        width: 167
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e56b814e9d71346b37272628f037c2
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_64
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 792
+        width: 153
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3138ee07bfc4b42b25709de8e36dde
+      internalID: 95075087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_65
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 792
+        width: 195
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96720c4dd11be5546ab14da60b149d1b
+      internalID: 476147846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_73
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 785
+        width: 114
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83a05ef155ff84e823e944de0904ba
+      internalID: -1238227734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_80
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 792
+        width: 195
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeb808d87e07bb4a93efe5c09353233
+      internalID: -1335788276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 801
+        width: 155
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b2cb331df9a44b8cd073812759785
+      internalID: 1820632298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_87
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 786
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79094b5ba61af1c4f8b79d88c3a4b75e
+      internalID: -817826714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_113
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 771
+        width: 143
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf07e3eabf5854ca7988dd5c6071b9
+      internalID: 1199086025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_169
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 533
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c7fd4394c46dd4baac3e1c01a1fc58
+      internalID: 1484947370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_175
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 558
+        width: 198
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7749189d786e1478e0fd9fb440406c
+      internalID: -2141718668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_176
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 546
+        width: 198
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fde1438c3271d4b83dbcdd21f8e742
+      internalID: 1270796067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_177
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 540
+        width: 204
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf9164bc5b34a41818921dc2434419
+      internalID: 603128131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_180
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 534
+        width: 222
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e391d4198879b46ade2d38dbd50a03
+      internalID: 333469552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_228
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 276
+        width: 141
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3552403bb614d46b02023932ed3ee2
+      internalID: -522643558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_239
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 282
+        width: 126
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c0ff396688f44eb7d9e120cef7ab4
+      internalID: -209295391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_240
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 290
+        width: 147
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb37f6cfa210cb741a44f993729b07aa
+      internalID: 995306302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_246
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 256
+        width: 145
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8fb6f24120d1d49835ad35d0c4114a
+      internalID: -1231357735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_250
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 256
+        width: 192
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e75fce1e96c4ed4d853b541d7926879
+      internalID: 348887186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_251
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 252
+        width: 153
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c488f847d06a74fa5ed0fcf0876a2b
+      internalID: 389153196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_258
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 266
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6be07011d760c4482509a9c9065c26
+      internalID: -116247791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_295
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 24
+        width: 126
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb1e79aeb9d994681a5b4c4b497b4d
+      internalID: -194070500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_296
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 126
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff367e73bf99cd4468bbbdb5f6f8659e
+      internalID: -1308019719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_297
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 24
+        width: 120
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7801c819101ce489514e32787cd971
+      internalID: 1136835042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_298
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 24
+        width: 138
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a6a20573083b418475aebe77bf95d
+      internalID: 509217858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_299
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 24
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777691bbfd00d6d4ebfd6117f93864db
+      internalID: 115364397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_301
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 24
+        width: 138
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a0d7b2e7b6b5840af81b5587415f10
+      internalID: 1828258178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_302
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 24
+        width: 138
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3c90fe0f0ab524d90f18f9c8ac16cb
+      internalID: 1053721081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c32c0da9853fb4b47a53f7f888742698
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jump_Swing_Fire_0: 21300000
+      Jump_Swing_Fire_1: 21300002
+      Jump_Swing_Fire_10: 21300020
+      Jump_Swing_Fire_100: -1186694682
+      Jump_Swing_Fire_101: 2105057938
+      Jump_Swing_Fire_102: -619528768
+      Jump_Swing_Fire_103: -1941517847
+      Jump_Swing_Fire_104: -579944861
+      Jump_Swing_Fire_105: -493127131
+      Jump_Swing_Fire_106: 1516431103
+      Jump_Swing_Fire_107: -1067300756
+      Jump_Swing_Fire_108: -1177513534
+      Jump_Swing_Fire_109: -935680057
+      Jump_Swing_Fire_11: 21300022
+      Jump_Swing_Fire_110: 205585028
+      Jump_Swing_Fire_111: 8548569
+      Jump_Swing_Fire_112: 1974050554
+      Jump_Swing_Fire_113: 1199086025
+      Jump_Swing_Fire_114: -1138789366
+      Jump_Swing_Fire_115: -1479558144
+      Jump_Swing_Fire_116: 1647232817
+      Jump_Swing_Fire_117: 1167651566
+      Jump_Swing_Fire_118: -849664729
+      Jump_Swing_Fire_119: -1986309286
+      Jump_Swing_Fire_12: 21300024
+      Jump_Swing_Fire_120: 327045333
+      Jump_Swing_Fire_121: -889272684
+      Jump_Swing_Fire_122: -1081212545
+      Jump_Swing_Fire_123: 1965403348
+      Jump_Swing_Fire_124: 868823373
+      Jump_Swing_Fire_125: -1674595180
+      Jump_Swing_Fire_126: -1527921566
+      Jump_Swing_Fire_127: -585679481
+      Jump_Swing_Fire_128: -149586769
+      Jump_Swing_Fire_129: -749278881
+      Jump_Swing_Fire_13: 21300026
+      Jump_Swing_Fire_130: 1296669734
+      Jump_Swing_Fire_131: 2062694217
+      Jump_Swing_Fire_132: 1979643850
+      Jump_Swing_Fire_133: 659007468
+      Jump_Swing_Fire_134: 739806152
+      Jump_Swing_Fire_135: -726091142
+      Jump_Swing_Fire_136: -349494371
+      Jump_Swing_Fire_137: -502929101
+      Jump_Swing_Fire_138: -350141649
+      Jump_Swing_Fire_139: 710182854
+      Jump_Swing_Fire_14: 21300028
+      Jump_Swing_Fire_140: 992672207
+      Jump_Swing_Fire_141: 364894421
+      Jump_Swing_Fire_142: -1200867634
+      Jump_Swing_Fire_143: -589934469
+      Jump_Swing_Fire_144: -2035438910
+      Jump_Swing_Fire_145: 974020094
+      Jump_Swing_Fire_146: -679200937
+      Jump_Swing_Fire_147: -1607806832
+      Jump_Swing_Fire_148: -689172242
+      Jump_Swing_Fire_149: -426860089
+      Jump_Swing_Fire_15: 21300030
+      Jump_Swing_Fire_150: 258188817
+      Jump_Swing_Fire_151: -878466759
+      Jump_Swing_Fire_152: -21630200
+      Jump_Swing_Fire_153: -689250469
+      Jump_Swing_Fire_154: 1978890222
+      Jump_Swing_Fire_155: 1217219498
+      Jump_Swing_Fire_156: -1024948922
+      Jump_Swing_Fire_157: 802976289
+      Jump_Swing_Fire_158: -51271644
+      Jump_Swing_Fire_159: -1958128309
+      Jump_Swing_Fire_16: 21300032
+      Jump_Swing_Fire_160: -355150194
+      Jump_Swing_Fire_161: 1956166307
+      Jump_Swing_Fire_162: -625466468
+      Jump_Swing_Fire_163: -615547942
+      Jump_Swing_Fire_164: -1345387660
+      Jump_Swing_Fire_165: 429486023
+      Jump_Swing_Fire_166: -1152852657
+      Jump_Swing_Fire_167: 340941649
+      Jump_Swing_Fire_168: 1004964691
+      Jump_Swing_Fire_169: 1484947370
+      Jump_Swing_Fire_17: 21300034
+      Jump_Swing_Fire_170: 2128259652
+      Jump_Swing_Fire_171: 724859547
+      Jump_Swing_Fire_172: 54715562
+      Jump_Swing_Fire_173: -243771147
+      Jump_Swing_Fire_174: 1555812739
+      Jump_Swing_Fire_175: -2141718668
+      Jump_Swing_Fire_176: 1270796067
+      Jump_Swing_Fire_177: 603128131
+      Jump_Swing_Fire_178: 2106742300
+      Jump_Swing_Fire_179: -1222491122
+      Jump_Swing_Fire_18: 21300036
+      Jump_Swing_Fire_180: 333469552
+      Jump_Swing_Fire_181: -1861363347
+      Jump_Swing_Fire_182: 1025996640
+      Jump_Swing_Fire_183: 1518046305
+      Jump_Swing_Fire_184: 676534679
+      Jump_Swing_Fire_185: -1176889486
+      Jump_Swing_Fire_186: -238599643
+      Jump_Swing_Fire_187: -783271382
+      Jump_Swing_Fire_188: 773224494
+      Jump_Swing_Fire_189: -209568832
+      Jump_Swing_Fire_19: 21300038
+      Jump_Swing_Fire_190: -2039649297
+      Jump_Swing_Fire_191: -1353097227
+      Jump_Swing_Fire_192: 85542831
+      Jump_Swing_Fire_193: 1267151689
+      Jump_Swing_Fire_194: -1690475796
+      Jump_Swing_Fire_195: 1823113803
+      Jump_Swing_Fire_196: 72165578
+      Jump_Swing_Fire_197: 148267307
+      Jump_Swing_Fire_198: 1553843693
+      Jump_Swing_Fire_199: -1195502235
+      Jump_Swing_Fire_2: 21300004
+      Jump_Swing_Fire_20: 21300040
+      Jump_Swing_Fire_200: -710025627
+      Jump_Swing_Fire_201: 592899011
+      Jump_Swing_Fire_202: 1947961804
+      Jump_Swing_Fire_203: 1911354910
+      Jump_Swing_Fire_204: 2144099150
+      Jump_Swing_Fire_205: -1059505496
+      Jump_Swing_Fire_206: 1697117004
+      Jump_Swing_Fire_207: 1004831118
+      Jump_Swing_Fire_208: 114141456
+      Jump_Swing_Fire_209: -1760887526
+      Jump_Swing_Fire_21: 21300042
+      Jump_Swing_Fire_210: -1377983476
+      Jump_Swing_Fire_211: 1477853668
+      Jump_Swing_Fire_212: -520832349
+      Jump_Swing_Fire_213: 1477078649
+      Jump_Swing_Fire_214: -889225222
+      Jump_Swing_Fire_215: -962637715
+      Jump_Swing_Fire_216: -266755032
+      Jump_Swing_Fire_217: 1172988055
+      Jump_Swing_Fire_218: -1224194560
+      Jump_Swing_Fire_219: 1599426516
+      Jump_Swing_Fire_22: 21300044
+      Jump_Swing_Fire_220: 1097592628
+      Jump_Swing_Fire_221: 310869723
+      Jump_Swing_Fire_222: -1341169811
+      Jump_Swing_Fire_223: 1809410523
+      Jump_Swing_Fire_224: 1770723815
+      Jump_Swing_Fire_225: 1493466948
+      Jump_Swing_Fire_226: -1129192149
+      Jump_Swing_Fire_227: 1702499512
+      Jump_Swing_Fire_228: -522643558
+      Jump_Swing_Fire_229: 1188666369
+      Jump_Swing_Fire_23: 21300046
+      Jump_Swing_Fire_230: 1800968380
+      Jump_Swing_Fire_231: -1191616654
+      Jump_Swing_Fire_232: -1358717991
+      Jump_Swing_Fire_233: -2020262662
+      Jump_Swing_Fire_234: 429793927
+      Jump_Swing_Fire_235: 1508252786
+      Jump_Swing_Fire_236: -1128261070
+      Jump_Swing_Fire_237: 1127536966
+      Jump_Swing_Fire_238: 1501699611
+      Jump_Swing_Fire_239: -209295391
+      Jump_Swing_Fire_24: 21300048
+      Jump_Swing_Fire_240: 995306302
+      Jump_Swing_Fire_241: -193891196
+      Jump_Swing_Fire_242: -904987955
+      Jump_Swing_Fire_243: -1827742480
+      Jump_Swing_Fire_244: 1728012243
+      Jump_Swing_Fire_245: -1025628428
+      Jump_Swing_Fire_246: -1231357735
+      Jump_Swing_Fire_247: -1338145566
+      Jump_Swing_Fire_248: -1150033284
+      Jump_Swing_Fire_249: 1946955331
+      Jump_Swing_Fire_25: 21300050
+      Jump_Swing_Fire_250: 348887186
+      Jump_Swing_Fire_251: 389153196
+      Jump_Swing_Fire_252: -1024955076
+      Jump_Swing_Fire_253: -1065954694
+      Jump_Swing_Fire_254: -1029835167
+      Jump_Swing_Fire_255: -1927273354
+      Jump_Swing_Fire_256: 1251713874
+      Jump_Swing_Fire_257: -1213801616
+      Jump_Swing_Fire_258: -116247791
+      Jump_Swing_Fire_259: 1276515600
+      Jump_Swing_Fire_26: 21300052
+      Jump_Swing_Fire_260: -1770564061
+      Jump_Swing_Fire_261: 91592429
+      Jump_Swing_Fire_262: 312903499
+      Jump_Swing_Fire_263: -372505935
+      Jump_Swing_Fire_264: -1292052794
+      Jump_Swing_Fire_265: 1313035792
+      Jump_Swing_Fire_266: 1043852308
+      Jump_Swing_Fire_267: 1848484545
+      Jump_Swing_Fire_268: -1633051599
+      Jump_Swing_Fire_269: -1911054112
+      Jump_Swing_Fire_27: 21300054
+      Jump_Swing_Fire_270: 174688092
+      Jump_Swing_Fire_271: -2012476160
+      Jump_Swing_Fire_272: -1310238216
+      Jump_Swing_Fire_273: -1838788068
+      Jump_Swing_Fire_274: 2063716626
+      Jump_Swing_Fire_275: 851131389
+      Jump_Swing_Fire_276: -1058254871
+      Jump_Swing_Fire_277: -598738248
+      Jump_Swing_Fire_278: -1505742772
+      Jump_Swing_Fire_279: -1004037327
+      Jump_Swing_Fire_28: 21300056
+      Jump_Swing_Fire_280: 849222864
+      Jump_Swing_Fire_281: 1693545160
+      Jump_Swing_Fire_282: -736022733
+      Jump_Swing_Fire_283: -1934634430
+      Jump_Swing_Fire_284: 117565982
+      Jump_Swing_Fire_285: 2048170072
+      Jump_Swing_Fire_286: -396890615
+      Jump_Swing_Fire_287: 1886458514
+      Jump_Swing_Fire_288: 411716458
+      Jump_Swing_Fire_289: 2076287478
+      Jump_Swing_Fire_29: 21300058
+      Jump_Swing_Fire_290: 1879324835
+      Jump_Swing_Fire_291: -868290481
+      Jump_Swing_Fire_292: -1382216134
+      Jump_Swing_Fire_293: -491984682
+      Jump_Swing_Fire_294: -1377022203
+      Jump_Swing_Fire_295: -194070500
+      Jump_Swing_Fire_296: -1308019719
+      Jump_Swing_Fire_297: 1136835042
+      Jump_Swing_Fire_298: 509217858
+      Jump_Swing_Fire_299: 115364397
+      Jump_Swing_Fire_3: 21300006
+      Jump_Swing_Fire_30: 21300060
+      Jump_Swing_Fire_300: -988259736
+      Jump_Swing_Fire_301: 1828258178
+      Jump_Swing_Fire_302: 1053721081
+      Jump_Swing_Fire_31: 21300062
+      Jump_Swing_Fire_32: 21300064
+      Jump_Swing_Fire_33: 21300066
+      Jump_Swing_Fire_34: -1307227868
+      Jump_Swing_Fire_35: 1497841307
+      Jump_Swing_Fire_36: 2077291873
+      Jump_Swing_Fire_37: 909262001
+      Jump_Swing_Fire_38: 1150624391
+      Jump_Swing_Fire_39: 886613366
+      Jump_Swing_Fire_4: 21300008
+      Jump_Swing_Fire_40: -1678435090
+      Jump_Swing_Fire_41: 311450425
+      Jump_Swing_Fire_42: -573831683
+      Jump_Swing_Fire_43: -92173016
+      Jump_Swing_Fire_44: -1651546470
+      Jump_Swing_Fire_45: -2015490025
+      Jump_Swing_Fire_46: 1752195763
+      Jump_Swing_Fire_47: -1575731530
+      Jump_Swing_Fire_48: -17105435
+      Jump_Swing_Fire_49: -1186797658
+      Jump_Swing_Fire_5: 21300010
+      Jump_Swing_Fire_50: -270399462
+      Jump_Swing_Fire_51: 1448305321
+      Jump_Swing_Fire_52: 391796739
+      Jump_Swing_Fire_53: -1685739809
+      Jump_Swing_Fire_54: -1855069255
+      Jump_Swing_Fire_55: -728065067
+      Jump_Swing_Fire_56: -423372115
+      Jump_Swing_Fire_57: 458716928
+      Jump_Swing_Fire_58: 904523659
+      Jump_Swing_Fire_59: 324471923
+      Jump_Swing_Fire_6: 21300012
+      Jump_Swing_Fire_60: -878354280
+      Jump_Swing_Fire_61: -1126422004
+      Jump_Swing_Fire_62: 281574234
+      Jump_Swing_Fire_63: -16188304
+      Jump_Swing_Fire_64: 95075087
+      Jump_Swing_Fire_65: 476147846
+      Jump_Swing_Fire_66: -434701503
+      Jump_Swing_Fire_67: -2070825466
+      Jump_Swing_Fire_68: 753205548
+      Jump_Swing_Fire_69: -119391851
+      Jump_Swing_Fire_7: 21300014
+      Jump_Swing_Fire_70: -1015771600
+      Jump_Swing_Fire_71: 345372374
+      Jump_Swing_Fire_72: -1677552847
+      Jump_Swing_Fire_73: -1238227734
+      Jump_Swing_Fire_74: 1478890445
+      Jump_Swing_Fire_75: 2007008709
+      Jump_Swing_Fire_76: 452807796
+      Jump_Swing_Fire_77: -2091880093
+      Jump_Swing_Fire_78: 101338174
+      Jump_Swing_Fire_79: 1957627962
+      Jump_Swing_Fire_8: 21300016
+      Jump_Swing_Fire_80: -1335788276
+      Jump_Swing_Fire_81: 36494666
+      Jump_Swing_Fire_82: -521562794
+      Jump_Swing_Fire_83: -944224110
+      Jump_Swing_Fire_84: -229916128
+      Jump_Swing_Fire_85: 1820632298
+      Jump_Swing_Fire_86: 1980631175
+      Jump_Swing_Fire_87: -817826714
+      Jump_Swing_Fire_88: 218848356
+      Jump_Swing_Fire_89: 1571304802
+      Jump_Swing_Fire_9: 21300018
+      Jump_Swing_Fire_90: 1456981948
+      Jump_Swing_Fire_91: -855916721
+      Jump_Swing_Fire_92: -308538428
+      Jump_Swing_Fire_93: -2092797932
+      Jump_Swing_Fire_94: -913837301
+      Jump_Swing_Fire_95: 798995828
+      Jump_Swing_Fire_96: 1702474466
+      Jump_Swing_Fire_97: -703653302
+      Jump_Swing_Fire_98: -1188723168
+      Jump_Swing_Fire_99: -1192452540
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
